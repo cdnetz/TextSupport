@@ -1,0 +1,16 @@
+.topHeader{
+	color: #00ff4c;
+
+}
+.subHeader{
+	color: #0055ff;
+}
+
+.textInfo{
+	width: 90%;
+	padding: 30px;
+	border-left: 10px solid #10C2E3;
+	border-top: 2px solid rgba(239, 239, 239, 0.8);
+	border-right: 2px solid rgba(239, 239, 239, 0.8);
+	border-bottom: 2px solid rgba(239, 239, 239, 0.8);
+}

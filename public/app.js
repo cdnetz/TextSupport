@@ -1,4 +1,4 @@
-var app = angular.module('textSupport', ['ngRoute']);
+var app = angular.module('textSupport', ['ngRoute', 'firebase']);
 
 app.config(function($routeProvider) {
 	$routeProvider
